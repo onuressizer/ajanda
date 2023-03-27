@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(../resim4.jpg)
+    ;
+    background-position: center
+    ;
+    background-size: cover;
+}
+.baslık{
+    text-align: center;
+    font-size: 3rem;
+    background-color: azure;
+}
+.aylar{
+    background-color: orange;
+    color: rgb(46, 156, 46);
+    width: 20%;
+}
+.aylar h2{background-color:white;
+text-align: center;}
+
+div.mevsimler{
+    display: inline block;
+    background-color: pink;
+    width: 20%;
+}
+
+.günler{
+    display: inline-block;
+    background-color: teal;
+    width: 20%;
+}
+.mevsimler h2 { background-color: white;
+text-align: center;}
+.günler h2{background-color: white;
+text-align: center;}
+
+.h2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
